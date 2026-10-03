@@ -1,0 +1,8 @@
+/.vscode
+/tmp
+/fonts
+/icons
+
+*.pdf
+main.typ
+.DS_Store
